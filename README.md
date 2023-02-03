@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @b00541
-- 👀 I’m interested in cycling 
-- 🌱 I’m currently a learning Web Dev 
